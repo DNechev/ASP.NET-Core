@@ -41,3 +41,46 @@ C:\Users\dido9\Desktop\WEB Ivo GitHub\csharp-web-master\2019-May-Season\ASP-NET-
 C:\Users\dido9\Desktop\WEB Ivo GitHub\csharp-web-master\2019-May-Season\ASP-NET-Core\01. ASP-NET-Core-Introduction\PANDA\src\Panda.App\obj\Debug\netcoreapp2.2\Panda.App.csproj.CopyComplete
 C:\Users\dido9\Desktop\WEB Ivo GitHub\csharp-web-master\2019-May-Season\ASP-NET-Core\01. ASP-NET-Core-Introduction\PANDA\src\Panda.App\obj\Debug\netcoreapp2.2\Panda.App.dll
 C:\Users\dido9\Desktop\WEB Ivo GitHub\csharp-web-master\2019-May-Season\ASP-NET-Core\01. ASP-NET-Core-Introduction\PANDA\src\Panda.App\obj\Debug\netcoreapp2.2\Panda.App.pdb
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\PANDA\Panda.App\bin\Debug\netcoreapp2.2\Panda.App.deps.json
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\PANDA\Panda.App\bin\Debug\netcoreapp2.2\Panda.App.runtimeconfig.json
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\PANDA\Panda.App\bin\Debug\netcoreapp2.2\Panda.App.runtimeconfig.dev.json
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\PANDA\Panda.App\bin\Debug\netcoreapp2.2\Panda.App.dll
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\PANDA\Panda.App\bin\Debug\netcoreapp2.2\Panda.App.pdb
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\PANDA\Panda.App\bin\Debug\netcoreapp2.2\Panda.App.Views.dll
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\PANDA\Panda.App\bin\Debug\netcoreapp2.2\Panda.App.Views.pdb
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\PANDA\Panda.App\bin\Debug\netcoreapp2.2\Panda.Data.dll
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\PANDA\Panda.App\bin\Debug\netcoreapp2.2\Panda.Domain.dll
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\PANDA\Panda.App\bin\Debug\netcoreapp2.2\Panda.Service.dll
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\PANDA\Panda.App\bin\Debug\netcoreapp2.2\Panda.Data.pdb
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\PANDA\Panda.App\bin\Debug\netcoreapp2.2\Panda.Service.pdb
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\PANDA\Panda.App\bin\Debug\netcoreapp2.2\Panda.Domain.pdb
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\PANDA\Panda.App\obj\Debug\netcoreapp2.2\Panda.App.csprojAssemblyReference.cache
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\PANDA\Panda.App\obj\Debug\netcoreapp2.2\Panda.App.RazorAssemblyInfo.cache
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\PANDA\Panda.App\obj\Debug\netcoreapp2.2\Panda.App.RazorAssemblyInfo.cs
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\PANDA\Panda.App\obj\Debug\netcoreapp2.2\Panda.App.AssemblyInfoInputs.cache
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\PANDA\Panda.App\obj\Debug\netcoreapp2.2\Panda.App.AssemblyInfo.cs
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\PANDA\Panda.App\obj\Debug\netcoreapp2.2\Panda.App.TagHelpers.input.cache
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\PANDA\Panda.App\obj\Debug\netcoreapp2.2\Panda.App.TagHelpers.output.cache
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\PANDA\Panda.App\obj\Debug\netcoreapp2.2\Panda.App.RazorCoreGenerate.cache
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\PANDA\Panda.App\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\PANDA\Panda.App\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\PANDA\Panda.App\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\PANDA\Panda.App\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\PANDA\Panda.App\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\PANDA\Panda.App\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\PANDA\Panda.App\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\PANDA\Panda.App\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\PANDA\Panda.App\obj\Debug\netcoreapp2.2\Razor\Views\Receipts\Details.g.cshtml.cs
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\PANDA\Panda.App\obj\Debug\netcoreapp2.2\Razor\Views\Receipts\My.g.cshtml.cs
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\PANDA\Panda.App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\PANDA\Panda.App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\PANDA\Panda.App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\PANDA\Panda.App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\PANDA\Panda.App\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\PANDA\Panda.App\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\PANDA\Panda.App\obj\Debug\netcoreapp2.2\Panda.App.RazorTargetAssemblyInfo.cache
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\PANDA\Panda.App\obj\Debug\netcoreapp2.2\Panda.App.RazorTargetAssemblyInfo.cs
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\PANDA\Panda.App\obj\Debug\netcoreapp2.2\Panda.App.Views.pdb
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\PANDA\Panda.App\obj\Debug\netcoreapp2.2\Panda.App.csproj.CopyComplete
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\PANDA\Panda.App\obj\Debug\netcoreapp2.2\Panda.App.dll
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\PANDA\Panda.App\obj\Debug\netcoreapp2.2\Panda.App.pdb

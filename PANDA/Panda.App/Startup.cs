@@ -8,6 +8,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Panda.Data;
 using Panda.Domain;
+using Panda.Services;
 using System.Linq;
 
 namespace Panda.App
@@ -45,6 +46,9 @@ namespace Panda.App
             });
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+            services.AddScoped<IPackagesService, PackagesService>();
+            services.AddScoped<IReceiptsService, ReceiptsService>();
+            services.AddScoped<IUsersService, UsersService>();
         }
 
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
@@ -60,7 +64,7 @@ namespace Panda.App
                         context.Roles.Add(new PandaUserRole { Name = "Admin", NormalizedName = "ADMIN" });
                         context.Roles.Add(new PandaUserRole { Name = "User", NormalizedName = "USER" });
                     }
-                    
+                   
 
                     if(!context.PackageStatus.Any())
                     {
@@ -74,9 +78,9 @@ namespace Panda.App
                 }
             }
 
+            app.UseDeveloperExceptionPage();
             app.UseHttpsRedirection();
             app.UseStaticFiles();
-            app.UseDeveloperExceptionPage();
 
             app.UseAuthentication();
             app.UseMvcWithDefaultRoute();
