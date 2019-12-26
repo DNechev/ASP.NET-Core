@@ -1,0 +1,11 @@
+C:\Users\dido9\source\repos\MessageApp\Message.Data\bin\Debug\netstandard2.0\Message.Data.deps.json
+C:\Users\dido9\source\repos\MessageApp\Message.Data\bin\Debug\netstandard2.0\Message.Data.dll
+C:\Users\dido9\source\repos\MessageApp\Message.Data\obj\Debug\netstandard2.0\Message.Data.AssemblyInfoInputs.cache
+C:\Users\dido9\source\repos\MessageApp\Message.Data\obj\Debug\netstandard2.0\Message.Data.AssemblyInfo.cs
+C:\Users\dido9\source\repos\MessageApp\Message.Data\obj\Debug\netstandard2.0\Message.Data.csprojAssemblyReference.cache
+C:\Users\dido9\source\repos\MessageApp\Message.Data\bin\Debug\netstandard2.0\Message.Data.pdb
+C:\Users\dido9\source\repos\MessageApp\Message.Data\bin\Debug\netstandard2.0\Message.Domain.dll
+C:\Users\dido9\source\repos\MessageApp\Message.Data\bin\Debug\netstandard2.0\Message.Domain.pdb
+C:\Users\dido9\source\repos\MessageApp\Message.Data\obj\Debug\netstandard2.0\Message.Data.csproj.CopyComplete
+C:\Users\dido9\source\repos\MessageApp\Message.Data\obj\Debug\netstandard2.0\Message.Data.dll
+C:\Users\dido9\source\repos\MessageApp\Message.Data\obj\Debug\netstandard2.0\Message.Data.pdb

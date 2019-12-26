@@ -1,0 +1,8 @@
+C:\Users\dido9\source\repos\MessageApp\Message.Domain\bin\Debug\netstandard2.0\Message.Domain.deps.json
+C:\Users\dido9\source\repos\MessageApp\Message.Domain\bin\Debug\netstandard2.0\Message.Domain.dll
+C:\Users\dido9\source\repos\MessageApp\Message.Domain\bin\Debug\netstandard2.0\Message.Domain.pdb
+C:\Users\dido9\source\repos\MessageApp\Message.Domain\obj\Debug\netstandard2.0\Message.Domain.csprojAssemblyReference.cache
+C:\Users\dido9\source\repos\MessageApp\Message.Domain\obj\Debug\netstandard2.0\Message.Domain.AssemblyInfoInputs.cache
+C:\Users\dido9\source\repos\MessageApp\Message.Domain\obj\Debug\netstandard2.0\Message.Domain.AssemblyInfo.cs
+C:\Users\dido9\source\repos\MessageApp\Message.Domain\obj\Debug\netstandard2.0\Message.Domain.dll
+C:\Users\dido9\source\repos\MessageApp\Message.Domain\obj\Debug\netstandard2.0\Message.Domain.pdb
