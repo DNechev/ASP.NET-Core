@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+@if (!User.Identity.IsAuthenticated)
+{
+    <div class="jumbotron bg-eventures font-weight-bolder w-75 mx-auto">
+        <h1>Eventures - The best ticket service in the world.</h1>
+        <hr class="hr-2 bg-dark" />
+        <h3 class="mt-4"><a href="/Identity/Account/Login">Login</a> to start "eventing".</h3>
+        <h3 class="mt-4"><a href="/Identity/Account/Register">Register</a> if you don't have an account.</h3>
+    </div>
+}
+else if (User.IsInRole("User"))
+{
+    <div class="jumbotron bg-eventures font-weight-bolder w-75 mx-auto">
+        <h1 class="text-center font-weight-bolder">Welcome, @User.Identity.Name!</h1>
+        <hr class="hr-2 bg-secondary" />
+        <h4 class="mt-4 font-weight-normal text-center text-secondary">Eventures wishes you an exiting experience.</h4>
+    </div>
+}
+else
+{
+    <div class="jumbotron bg-eventures font-weight-bolder w-75 mx-auto">
+        <h1 class="text-center font-weight-bolder">Greetings, Administrator - @User.Identity.Name!</h1>
+        <hr class="hr-2 bg-secondary" />
+        <h4 class="mt-4 font-weight-normal text-center text-secondary">Enjoy your work.</h4>
+    </div>
+}
+

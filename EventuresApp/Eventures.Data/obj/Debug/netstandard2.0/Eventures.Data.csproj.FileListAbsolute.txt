@@ -1,0 +1,11 @@
+C:\Users\dido9\source\repos\Eventures\Eventures.Data\bin\Debug\netstandard2.0\Eventures.Data.deps.json
+C:\Users\dido9\source\repos\Eventures\Eventures.Data\bin\Debug\netstandard2.0\Eventures.Data.dll
+C:\Users\dido9\source\repos\Eventures\Eventures.Data\obj\Debug\netstandard2.0\Eventures.Data.csprojAssemblyReference.cache
+C:\Users\dido9\source\repos\Eventures\Eventures.Data\obj\Debug\netstandard2.0\Eventures.Data.AssemblyInfoInputs.cache
+C:\Users\dido9\source\repos\Eventures\Eventures.Data\obj\Debug\netstandard2.0\Eventures.Data.AssemblyInfo.cs
+C:\Users\dido9\source\repos\Eventures\Eventures.Data\bin\Debug\netstandard2.0\Eventures.Data.pdb
+C:\Users\dido9\source\repos\Eventures\Eventures.Data\bin\Debug\netstandard2.0\Eventures.Domain.dll
+C:\Users\dido9\source\repos\Eventures\Eventures.Data\bin\Debug\netstandard2.0\Eventures.Domain.pdb
+C:\Users\dido9\source\repos\Eventures\Eventures.Data\obj\Debug\netstandard2.0\Eventures.Data.csproj.CopyComplete
+C:\Users\dido9\source\repos\Eventures\Eventures.Data\obj\Debug\netstandard2.0\Eventures.Data.dll
+C:\Users\dido9\source\repos\Eventures\Eventures.Data\obj\Debug\netstandard2.0\Eventures.Data.pdb
