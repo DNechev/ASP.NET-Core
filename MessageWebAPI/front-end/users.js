@@ -16,25 +16,36 @@ function login() {
     hideLoginAndRegisterAndShowLoggedInData();
 
 
-    // $.post({
-    //     url: APP_SERVICE_URL + 'users/login',
-    //     data: JSON.stringify(requestBody),
-    //     success: function (data) {
-    //         // CHANGE CAPTION TO 'Welcome to Chat-Inc!'
-    //         // Save token to localStorage using saveToken()
-    //         // EXTRACT FROM JWT TOKEN currently logged in user's username
-    //         // Logged-in-data visualize
-    //         // Hide Guest Navbar
-    //     },
-    //     error: function (error) {
-    //         console.error(error);
-    //     }
-    // });
+    $.post({
+        url: APP_SERVICE_URL + 'users/login',
+        headers: {
+            'Content-Type': 'application/json'
+        },
+        data: JSON.stringify(requestBody),
+        success: function (data) {
+            $('#guest-navbar').hide();
+            $('#caption').text('Welcome to Chat-Inc!');
+            let token = data.rawHeader + '.' + data.rawPayload + '.' + data.rawSignature;
+
+            saveToken(token);
+
+            console.log(isLoggedIn());
+
+            $('#username-logged-in').text(getUser());
+
+            hideLoginAndRegisterAndShowLoggedInData();
+
+
+        },
+        error: function (error) {
+            console.error(error);
+        }
+    });
 }
 
 function register() {
     let username = $('#username-register').val();
-    let password = $('#password-password').val();
+    let password = $('#password-register').val();
 
     $('#username-register').val('');
     $('#password-password').val('');
@@ -42,13 +53,12 @@ function register() {
     let requestBody = {
         username: username,
         password: password
-    };
-
-    $.post({
+    };$.post({
         url: APP_SERVICE_URL + 'users/register',
+        headers: {'Content-Type': 'application/json'},
         data: JSON.stringify(requestBody),
         success: function (data) {
-            // toggleLogin();
+             toggleLogin();
         },
         error: function (error) {
             console.error(error);
@@ -98,10 +108,10 @@ function getUser() {
     let token = localStorage.getItem('auth_token');
 
     let claims = token.split('.')[1];
-    let decodedClaims = atob(claims);
+    let decodedClaims = btoa(claims);
     let parsedClaims = JSON.parse(decodedClaims);
 
-    // return parsedClaims.name;
+     return parsedClaims.name;
 }
 
 function isLoggedIn() {
