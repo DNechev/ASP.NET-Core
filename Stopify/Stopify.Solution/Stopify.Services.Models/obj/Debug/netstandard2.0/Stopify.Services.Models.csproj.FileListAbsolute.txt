@@ -1,0 +1,8 @@
+C:\Users\dido9\Desktop\Stopify\Stopify.Solution\Stopify.Services.Models\bin\Debug\netstandard2.0\Stopify.Services.Models.deps.json
+C:\Users\dido9\Desktop\Stopify\Stopify.Solution\Stopify.Services.Models\bin\Debug\netstandard2.0\Stopify.Services.Models.dll
+C:\Users\dido9\Desktop\Stopify\Stopify.Solution\Stopify.Services.Models\bin\Debug\netstandard2.0\Stopify.Services.Models.pdb
+C:\Users\dido9\Desktop\Stopify\Stopify.Solution\Stopify.Services.Models\obj\Debug\netstandard2.0\Stopify.Services.Models.csprojAssemblyReference.cache
+C:\Users\dido9\Desktop\Stopify\Stopify.Solution\Stopify.Services.Models\obj\Debug\netstandard2.0\Stopify.Services.Models.AssemblyInfoInputs.cache
+C:\Users\dido9\Desktop\Stopify\Stopify.Solution\Stopify.Services.Models\obj\Debug\netstandard2.0\Stopify.Services.Models.AssemblyInfo.cs
+C:\Users\dido9\Desktop\Stopify\Stopify.Solution\Stopify.Services.Models\obj\Debug\netstandard2.0\Stopify.Services.Models.dll
+C:\Users\dido9\Desktop\Stopify\Stopify.Solution\Stopify.Services.Models\obj\Debug\netstandard2.0\Stopify.Services.Models.pdb

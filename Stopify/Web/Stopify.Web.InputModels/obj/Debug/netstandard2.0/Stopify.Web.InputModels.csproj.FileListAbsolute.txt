@@ -1,0 +1,8 @@
+C:\Users\dido9\Desktop\Stopify\Web\Stopify.Web.InputModels\bin\Debug\netstandard2.0\Stopify.Web.InputModels.deps.json
+C:\Users\dido9\Desktop\Stopify\Web\Stopify.Web.InputModels\bin\Debug\netstandard2.0\Stopify.Web.InputModels.dll
+C:\Users\dido9\Desktop\Stopify\Web\Stopify.Web.InputModels\obj\Debug\netstandard2.0\Stopify.Web.InputModels.csprojAssemblyReference.cache
+C:\Users\dido9\Desktop\Stopify\Web\Stopify.Web.InputModels\obj\Debug\netstandard2.0\Stopify.Web.InputModels.AssemblyInfoInputs.cache
+C:\Users\dido9\Desktop\Stopify\Web\Stopify.Web.InputModels\obj\Debug\netstandard2.0\Stopify.Web.InputModels.AssemblyInfo.cs
+C:\Users\dido9\Desktop\Stopify\Web\Stopify.Web.InputModels\bin\Debug\netstandard2.0\Stopify.Web.InputModels.pdb
+C:\Users\dido9\Desktop\Stopify\Web\Stopify.Web.InputModels\obj\Debug\netstandard2.0\Stopify.Web.InputModels.dll
+C:\Users\dido9\Desktop\Stopify\Web\Stopify.Web.InputModels\obj\Debug\netstandard2.0\Stopify.Web.InputModels.pdb

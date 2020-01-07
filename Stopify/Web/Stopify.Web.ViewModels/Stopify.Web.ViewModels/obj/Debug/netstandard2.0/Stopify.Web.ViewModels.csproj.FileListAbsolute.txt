@@ -1,0 +1,7 @@
+C:\Users\dido9\Desktop\Stopify\Web\Stopify.Web.ViewModels\Stopify.Web.ViewModels\bin\Debug\netstandard2.0\Stopify.Web.ViewModels.deps.json
+C:\Users\dido9\Desktop\Stopify\Web\Stopify.Web.ViewModels\Stopify.Web.ViewModels\bin\Debug\netstandard2.0\Stopify.Web.ViewModels.dll
+C:\Users\dido9\Desktop\Stopify\Web\Stopify.Web.ViewModels\Stopify.Web.ViewModels\bin\Debug\netstandard2.0\Stopify.Web.ViewModels.pdb
+C:\Users\dido9\Desktop\Stopify\Web\Stopify.Web.ViewModels\Stopify.Web.ViewModels\obj\Debug\netstandard2.0\Stopify.Web.ViewModels.AssemblyInfoInputs.cache
+C:\Users\dido9\Desktop\Stopify\Web\Stopify.Web.ViewModels\Stopify.Web.ViewModels\obj\Debug\netstandard2.0\Stopify.Web.ViewModels.AssemblyInfo.cs
+C:\Users\dido9\Desktop\Stopify\Web\Stopify.Web.ViewModels\Stopify.Web.ViewModels\obj\Debug\netstandard2.0\Stopify.Web.ViewModels.dll
+C:\Users\dido9\Desktop\Stopify\Web\Stopify.Web.ViewModels\Stopify.Web.ViewModels\obj\Debug\netstandard2.0\Stopify.Web.ViewModels.pdb
