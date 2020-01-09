@@ -33,11 +33,11 @@ namespace Stopify.Web.Areas.Identity.Pages.Account
 
         public class InputModel
         {
-            [Required]
+            [Required(ErrorMessage ="Username is required")]
             [Display(Name = "Username")]
             public string Username { get; set; }
 
-            [Required]
+            [Required(ErrorMessage ="Password is required")]
             [StringLength(100, ErrorMessage = "The {0} must be at least {2} and at max {1} characters long.", MinimumLength = 3)]
             [DataType(DataType.Password)]
             [Display(Name = "Password")]
@@ -48,7 +48,7 @@ namespace Stopify.Web.Areas.Identity.Pages.Account
             [Compare("Password", ErrorMessage = "The password and confirmation password do not match.")]
             public string ConfirmPassword { get; set; }
 
-            [Required]
+            [Required (ErrorMessage = "Email is required")]
             [EmailAddress]
             [Display(Name = "Email")]
             public string Email { get; set; }

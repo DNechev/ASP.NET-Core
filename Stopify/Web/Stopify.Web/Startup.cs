@@ -10,6 +10,7 @@ using Stopify.Data.Models;
 
 namespace Stopify.Web
 {
+    using CloudinaryDotNet;
     using Stopify.Services;
     using System.Linq;
     using System.Threading.Tasks;
@@ -20,9 +21,6 @@ namespace Stopify.Web
         {
             Configuration = configuration;
         }
-
-
-
 
         public IConfiguration Configuration { get; }
 
@@ -37,6 +35,15 @@ namespace Stopify.Web
                 .AddEntityFrameworkStores<StopifyDbContext>()
                 .AddDefaultTokenProviders();
 
+            Account account = new Account(this.Configuration["Cloudinary:CloudName"],
+                this.Configuration["Cloudinary:ApiKey"],
+                this.Configuration["Cloudinary:ApiSecret"]
+                );
+
+            Cloudinary cloudinary = new Cloudinary(account);
+
+            services.AddSingleton(cloudinary);
+
             services.Configure<IdentityOptions>(options =>
             {
                 options.Password.RequireDigit = false;
@@ -49,6 +56,7 @@ namespace Stopify.Web
                 options.User.RequireUniqueEmail = true;
             });
 
+            services.AddTransient<ICloudinaryService, CloudinaryService>();
             services.AddTransient<IProductService, ProductService>();
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);

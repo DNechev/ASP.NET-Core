@@ -11,7 +11,7 @@ namespace Stopify.Services.Models
 
         public decimal Price { get; set; }
 
-        public IFormFile Picture { get; set; }
+        public string Picture { get; set; }
 
         public DateTime ManufacturedOn { get; set; }
     }

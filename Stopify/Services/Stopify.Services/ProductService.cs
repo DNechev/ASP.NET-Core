@@ -14,18 +14,20 @@ namespace Stopify.Services
     {
         private readonly StopifyDbContext context;
 
-        public ProductService(StopifyDbContext context)
+        public ProductService(StopifyDbContext context )
         {
             this.context = context;
         }
 
         public async Task<bool> Create(ProductServiceModel inputModel)
         {
+
             Product product = new Product
             {
                 Name = inputModel.Name,
                 Price = inputModel.Price,
                 ManufacturedOn = inputModel.ManufacturedOn,
+                Picture = inputModel.Picture,
                 ProdudctType = new ProductType
                 {
                     Name = inputModel.ProdudctType.Name

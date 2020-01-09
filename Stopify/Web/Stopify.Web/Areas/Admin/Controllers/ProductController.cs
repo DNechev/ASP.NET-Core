@@ -11,10 +11,12 @@ namespace Stopify.Web.Areas.Admin.Controllers
     public class ProductController : AdminController
     {
         private readonly IProductService productService;
+        private readonly ICloudinaryService cloudinaryService;
 
-        public ProductController(IProductService productService)
+        public ProductController(IProductService productService, ICloudinaryService cloudinaryService)
         {
             this.productService = productService;
+            this.cloudinaryService = cloudinaryService;
         }
 
 
@@ -34,16 +36,18 @@ namespace Stopify.Web.Areas.Admin.Controllers
         [HttpPost(Name = "Create")]
         public async Task<IActionResult> Create(ProductCreateInputModel inputModel)
         {
+            string pictureUrl = await this.cloudinaryService.UploadPictureAsync(inputModel.Picture, inputModel.Name);
+
             ProductServiceModel serviceModel = new ProductServiceModel
             {
                 Name = inputModel.Name,
                 Price = inputModel.Price,
-                Picture = inputModel.Picture,
                 ManufacturedOn = inputModel.ManufacturedOn,
                 ProdudctType = new ProductTypeServiceModel
                 {
                     Name = inputModel.ProductType
-                }
+                },
+                Picture = pictureUrl
             };
 
             await this.productService.Create(serviceModel);
