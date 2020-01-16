@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Services\\Stopify.Services",
+    "\\Stopify.Solution"
   ],
+  "SelectedNode": "\\Stopify.Solution\\Stopify.Solution.sln",
   "PreviewInSolutionExplorer": false
 }

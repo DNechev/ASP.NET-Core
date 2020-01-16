@@ -21,6 +21,7 @@ namespace Stopify.Services
 
         public async Task<bool> Create(ProductServiceModel inputModel)
         {
+            var productType = await this.context.ProductTypes.SingleOrDefaultAsync(pt => pt.Name == inputModel.ProdudctType.Name);
 
             Product product = new Product
             {
@@ -28,10 +29,8 @@ namespace Stopify.Services
                 Price = inputModel.Price,
                 ManufacturedOn = inputModel.ManufacturedOn,
                 Picture = inputModel.Picture,
-                ProdudctType = new ProductType
-                {
-                    Name = inputModel.ProdudctType.Name
-                }
+                ProdudctType = productType,
+                ProdudctTypeId = productType.Id
             };
 
             await context.Products.AddAsync(product);
@@ -51,6 +50,16 @@ namespace Stopify.Services
             int result = await context.SaveChangesAsync();
 
             return result > 0;
+        }
+
+        public async Task<IEnumerable<ProductServiceModel>> GettAllProducts()
+        {
+            return await this.context.Products.Select(product => new ProductServiceModel
+            {
+                Name = product.Name,
+                Price = product.Price,
+                Picture = product.Picture,
+            }).ToListAsync();
         }
 
         public async Task<IEnumerable<ProductTypeServiceModel>> GetAllProductTypes()

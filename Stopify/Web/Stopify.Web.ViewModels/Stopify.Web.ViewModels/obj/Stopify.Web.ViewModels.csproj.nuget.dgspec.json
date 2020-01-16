@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dido9\\Desktop\\Stopify\\Web\\Stopify.Web.ViewModels\\Stopify.Web.ViewModels\\Stopify.Web.ViewModels.csproj": {}
+    "C:\\Users\\dido9\\Desktop\\DNGit\\ASP.NET Core\\Stopify\\Web\\Stopify.Web.ViewModels\\Stopify.Web.ViewModels\\Stopify.Web.ViewModels.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dido9\\Desktop\\Stopify\\Web\\Stopify.Web.ViewModels\\Stopify.Web.ViewModels\\Stopify.Web.ViewModels.csproj": {
+    "C:\\Users\\dido9\\Desktop\\DNGit\\ASP.NET Core\\Stopify\\Web\\Stopify.Web.ViewModels\\Stopify.Web.ViewModels\\Stopify.Web.ViewModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dido9\\Desktop\\Stopify\\Web\\Stopify.Web.ViewModels\\Stopify.Web.ViewModels\\Stopify.Web.ViewModels.csproj",
+        "projectUniqueName": "C:\\Users\\dido9\\Desktop\\DNGit\\ASP.NET Core\\Stopify\\Web\\Stopify.Web.ViewModels\\Stopify.Web.ViewModels\\Stopify.Web.ViewModels.csproj",
         "projectName": "Stopify.Web.ViewModels",
-        "projectPath": "C:\\Users\\dido9\\Desktop\\Stopify\\Web\\Stopify.Web.ViewModels\\Stopify.Web.ViewModels\\Stopify.Web.ViewModels.csproj",
+        "projectPath": "C:\\Users\\dido9\\Desktop\\DNGit\\ASP.NET Core\\Stopify\\Web\\Stopify.Web.ViewModels\\Stopify.Web.ViewModels\\Stopify.Web.ViewModels.csproj",
         "packagesPath": "C:\\Users\\dido9\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dido9\\Desktop\\Stopify\\Web\\Stopify.Web.ViewModels\\Stopify.Web.ViewModels\\obj\\",
+        "outputPath": "C:\\Users\\dido9\\Desktop\\DNGit\\ASP.NET Core\\Stopify\\Web\\Stopify.Web.ViewModels\\Stopify.Web.ViewModels\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"

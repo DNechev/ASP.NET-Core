@@ -13149,7 +13149,8 @@
       "Stopify.Services >= 1.0.0",
       "Stopify.Services.Models >= 1.0.0",
       "Stopify.Web.InputModels >= 1.0.0",
-      "Stopify.Web.ViewModels >= 1.0.0"
+      "Stopify.Web.ViewModels >= 1.0.0",
+      "System.Threading.Tasks >= 4.3.0"
     ]
   },
   "packageFolders": {
@@ -13159,11 +13160,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dido9\\Desktop\\Stopify\\Web\\Stopify.Web\\Stopify.Web.csproj",
+      "projectUniqueName": "C:\\Users\\dido9\\Desktop\\DNGit\\ASP.NET Core\\Stopify\\Web\\Stopify.Web\\Stopify.Web.csproj",
       "projectName": "Stopify.Web",
-      "projectPath": "C:\\Users\\dido9\\Desktop\\Stopify\\Web\\Stopify.Web\\Stopify.Web.csproj",
+      "projectPath": "C:\\Users\\dido9\\Desktop\\DNGit\\ASP.NET Core\\Stopify\\Web\\Stopify.Web\\Stopify.Web.csproj",
       "packagesPath": "C:\\Users\\dido9\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dido9\\Desktop\\Stopify\\Web\\Stopify.Web\\obj\\",
+      "outputPath": "C:\\Users\\dido9\\Desktop\\DNGit\\ASP.NET Core\\Stopify\\Web\\Stopify.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13182,23 +13183,23 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\dido9\\Desktop\\Stopify\\Data\\Stopify.Data\\Stopify.Data.csproj": {
-              "projectPath": "C:\\Users\\dido9\\Desktop\\Stopify\\Data\\Stopify.Data\\Stopify.Data.csproj"
+            "C:\\Users\\dido9\\Desktop\\DNGit\\ASP.NET Core\\Stopify\\Data\\Stopify.Data\\Stopify.Data.csproj": {
+              "projectPath": "C:\\Users\\dido9\\Desktop\\DNGit\\ASP.NET Core\\Stopify\\Data\\Stopify.Data\\Stopify.Data.csproj"
             },
-            "C:\\Users\\dido9\\Desktop\\Stopify\\Services\\Stopify.Services\\Stopify.Services.csproj": {
-              "projectPath": "C:\\Users\\dido9\\Desktop\\Stopify\\Services\\Stopify.Services\\Stopify.Services.csproj"
+            "C:\\Users\\dido9\\Desktop\\DNGit\\ASP.NET Core\\Stopify\\Services\\Stopify.Services\\Stopify.Services.csproj": {
+              "projectPath": "C:\\Users\\dido9\\Desktop\\DNGit\\ASP.NET Core\\Stopify\\Services\\Stopify.Services\\Stopify.Services.csproj"
             },
-            "C:\\Users\\dido9\\Desktop\\Stopify\\Stopify.Solution\\Stopify.Data.Models\\Stopify.Data.Models.csproj": {
-              "projectPath": "C:\\Users\\dido9\\Desktop\\Stopify\\Stopify.Solution\\Stopify.Data.Models\\Stopify.Data.Models.csproj"
+            "C:\\Users\\dido9\\Desktop\\DNGit\\ASP.NET Core\\Stopify\\Stopify.Solution\\Stopify.Data.Models\\Stopify.Data.Models.csproj": {
+              "projectPath": "C:\\Users\\dido9\\Desktop\\DNGit\\ASP.NET Core\\Stopify\\Stopify.Solution\\Stopify.Data.Models\\Stopify.Data.Models.csproj"
             },
-            "C:\\Users\\dido9\\Desktop\\Stopify\\Stopify.Solution\\Stopify.Services.Models\\Stopify.Services.Models.csproj": {
-              "projectPath": "C:\\Users\\dido9\\Desktop\\Stopify\\Stopify.Solution\\Stopify.Services.Models\\Stopify.Services.Models.csproj"
+            "C:\\Users\\dido9\\Desktop\\DNGit\\ASP.NET Core\\Stopify\\Stopify.Solution\\Stopify.Services.Models\\Stopify.Services.Models.csproj": {
+              "projectPath": "C:\\Users\\dido9\\Desktop\\DNGit\\ASP.NET Core\\Stopify\\Stopify.Solution\\Stopify.Services.Models\\Stopify.Services.Models.csproj"
             },
-            "C:\\Users\\dido9\\Desktop\\Stopify\\Web\\Stopify.Web.InputModels\\Stopify.Web.InputModels.csproj": {
-              "projectPath": "C:\\Users\\dido9\\Desktop\\Stopify\\Web\\Stopify.Web.InputModels\\Stopify.Web.InputModels.csproj"
+            "C:\\Users\\dido9\\Desktop\\DNGit\\ASP.NET Core\\Stopify\\Web\\Stopify.Web.InputModels\\Stopify.Web.InputModels.csproj": {
+              "projectPath": "C:\\Users\\dido9\\Desktop\\DNGit\\ASP.NET Core\\Stopify\\Web\\Stopify.Web.InputModels\\Stopify.Web.InputModels.csproj"
             },
-            "C:\\Users\\dido9\\Desktop\\Stopify\\Web\\Stopify.Web.ViewModels\\Stopify.Web.ViewModels\\Stopify.Web.ViewModels.csproj": {
-              "projectPath": "C:\\Users\\dido9\\Desktop\\Stopify\\Web\\Stopify.Web.ViewModels\\Stopify.Web.ViewModels\\Stopify.Web.ViewModels.csproj"
+            "C:\\Users\\dido9\\Desktop\\DNGit\\ASP.NET Core\\Stopify\\Web\\Stopify.Web.ViewModels\\Stopify.Web.ViewModels\\Stopify.Web.ViewModels.csproj": {
+              "projectPath": "C:\\Users\\dido9\\Desktop\\DNGit\\ASP.NET Core\\Stopify\\Web\\Stopify.Web.ViewModels\\Stopify.Web.ViewModels\\Stopify.Web.ViewModels.csproj"
             }
           }
         }
@@ -13232,6 +13233,10 @@
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
             "version": "[2.2.4, )"
+          },
+          "System.Threading.Tasks": {
+            "target": "Package",
+            "version": "[4.3.0, )"
           }
         },
         "imports": [

@@ -3638,11 +3638,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dido9\\Desktop\\Stopify\\Stopify.Solution\\Stopify.Data.Models\\Stopify.Data.Models.csproj",
+      "projectUniqueName": "C:\\Users\\dido9\\Desktop\\DNGit\\ASP.NET Core\\Stopify\\Stopify.Solution\\Stopify.Data.Models\\Stopify.Data.Models.csproj",
       "projectName": "Stopify.Data.Models",
-      "projectPath": "C:\\Users\\dido9\\Desktop\\Stopify\\Stopify.Solution\\Stopify.Data.Models\\Stopify.Data.Models.csproj",
+      "projectPath": "C:\\Users\\dido9\\Desktop\\DNGit\\ASP.NET Core\\Stopify\\Stopify.Solution\\Stopify.Data.Models\\Stopify.Data.Models.csproj",
       "packagesPath": "C:\\Users\\dido9\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dido9\\Desktop\\Stopify\\Stopify.Solution\\Stopify.Data.Models\\obj\\",
+      "outputPath": "C:\\Users\\dido9\\Desktop\\DNGit\\ASP.NET Core\\Stopify\\Stopify.Solution\\Stopify.Data.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"

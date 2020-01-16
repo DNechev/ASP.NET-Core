@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dido9\\Desktop\\Stopify\\Services\\Stopify.Services\\Stopify.Services.csproj": {}
+    "C:\\Users\\dido9\\Desktop\\DNGit\\ASP.NET Core\\Stopify\\Services\\Stopify.Services\\Stopify.Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dido9\\Desktop\\Stopify\\Data\\Stopify.Data\\Stopify.Data.csproj": {
+    "C:\\Users\\dido9\\Desktop\\DNGit\\ASP.NET Core\\Stopify\\Data\\Stopify.Data\\Stopify.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dido9\\Desktop\\Stopify\\Data\\Stopify.Data\\Stopify.Data.csproj",
+        "projectUniqueName": "C:\\Users\\dido9\\Desktop\\DNGit\\ASP.NET Core\\Stopify\\Data\\Stopify.Data\\Stopify.Data.csproj",
         "projectName": "Stopify.Data",
-        "projectPath": "C:\\Users\\dido9\\Desktop\\Stopify\\Data\\Stopify.Data\\Stopify.Data.csproj",
+        "projectPath": "C:\\Users\\dido9\\Desktop\\DNGit\\ASP.NET Core\\Stopify\\Data\\Stopify.Data\\Stopify.Data.csproj",
         "packagesPath": "C:\\Users\\dido9\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dido9\\Desktop\\Stopify\\Data\\Stopify.Data\\obj\\",
+        "outputPath": "C:\\Users\\dido9\\Desktop\\DNGit\\ASP.NET Core\\Stopify\\Data\\Stopify.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\dido9\\Desktop\\Stopify\\Stopify.Solution\\Stopify.Data.Models\\Stopify.Data.Models.csproj": {
-                "projectPath": "C:\\Users\\dido9\\Desktop\\Stopify\\Stopify.Solution\\Stopify.Data.Models\\Stopify.Data.Models.csproj"
+              "C:\\Users\\dido9\\Desktop\\DNGit\\ASP.NET Core\\Stopify\\Stopify.Solution\\Stopify.Data.Models\\Stopify.Data.Models.csproj": {
+                "projectPath": "C:\\Users\\dido9\\Desktop\\DNGit\\ASP.NET Core\\Stopify\\Stopify.Solution\\Stopify.Data.Models\\Stopify.Data.Models.csproj"
               }
             }
           }
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\dido9\\Desktop\\Stopify\\Services\\Stopify.Services\\Stopify.Services.csproj": {
+    "C:\\Users\\dido9\\Desktop\\DNGit\\ASP.NET Core\\Stopify\\Services\\Stopify.Services\\Stopify.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dido9\\Desktop\\Stopify\\Services\\Stopify.Services\\Stopify.Services.csproj",
+        "projectUniqueName": "C:\\Users\\dido9\\Desktop\\DNGit\\ASP.NET Core\\Stopify\\Services\\Stopify.Services\\Stopify.Services.csproj",
         "projectName": "Stopify.Services",
-        "projectPath": "C:\\Users\\dido9\\Desktop\\Stopify\\Services\\Stopify.Services\\Stopify.Services.csproj",
+        "projectPath": "C:\\Users\\dido9\\Desktop\\DNGit\\ASP.NET Core\\Stopify\\Services\\Stopify.Services\\Stopify.Services.csproj",
         "packagesPath": "C:\\Users\\dido9\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dido9\\Desktop\\Stopify\\Services\\Stopify.Services\\obj\\",
+        "outputPath": "C:\\Users\\dido9\\Desktop\\DNGit\\ASP.NET Core\\Stopify\\Services\\Stopify.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -90,11 +90,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\dido9\\Desktop\\Stopify\\Data\\Stopify.Data\\Stopify.Data.csproj": {
-                "projectPath": "C:\\Users\\dido9\\Desktop\\Stopify\\Data\\Stopify.Data\\Stopify.Data.csproj"
+              "C:\\Users\\dido9\\Desktop\\DNGit\\ASP.NET Core\\Stopify\\Data\\Stopify.Data\\Stopify.Data.csproj": {
+                "projectPath": "C:\\Users\\dido9\\Desktop\\DNGit\\ASP.NET Core\\Stopify\\Data\\Stopify.Data\\Stopify.Data.csproj"
               },
-              "C:\\Users\\dido9\\Desktop\\Stopify\\Stopify.Solution\\Stopify.Services.Models\\Stopify.Services.Models.csproj": {
-                "projectPath": "C:\\Users\\dido9\\Desktop\\Stopify\\Stopify.Solution\\Stopify.Services.Models\\Stopify.Services.Models.csproj"
+              "C:\\Users\\dido9\\Desktop\\DNGit\\ASP.NET Core\\Stopify\\Stopify.Solution\\Stopify.Services.Models\\Stopify.Services.Models.csproj": {
+                "projectPath": "C:\\Users\\dido9\\Desktop\\DNGit\\ASP.NET Core\\Stopify\\Stopify.Solution\\Stopify.Services.Models\\Stopify.Services.Models.csproj"
               }
             }
           }
@@ -127,14 +127,14 @@
         }
       }
     },
-    "C:\\Users\\dido9\\Desktop\\Stopify\\Stopify.Solution\\Stopify.Data.Models\\Stopify.Data.Models.csproj": {
+    "C:\\Users\\dido9\\Desktop\\DNGit\\ASP.NET Core\\Stopify\\Stopify.Solution\\Stopify.Data.Models\\Stopify.Data.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dido9\\Desktop\\Stopify\\Stopify.Solution\\Stopify.Data.Models\\Stopify.Data.Models.csproj",
+        "projectUniqueName": "C:\\Users\\dido9\\Desktop\\DNGit\\ASP.NET Core\\Stopify\\Stopify.Solution\\Stopify.Data.Models\\Stopify.Data.Models.csproj",
         "projectName": "Stopify.Data.Models",
-        "projectPath": "C:\\Users\\dido9\\Desktop\\Stopify\\Stopify.Solution\\Stopify.Data.Models\\Stopify.Data.Models.csproj",
+        "projectPath": "C:\\Users\\dido9\\Desktop\\DNGit\\ASP.NET Core\\Stopify\\Stopify.Solution\\Stopify.Data.Models\\Stopify.Data.Models.csproj",
         "packagesPath": "C:\\Users\\dido9\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dido9\\Desktop\\Stopify\\Stopify.Solution\\Stopify.Data.Models\\obj\\",
+        "outputPath": "C:\\Users\\dido9\\Desktop\\DNGit\\ASP.NET Core\\Stopify\\Stopify.Solution\\Stopify.Data.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -187,14 +187,14 @@
         }
       }
     },
-    "C:\\Users\\dido9\\Desktop\\Stopify\\Stopify.Solution\\Stopify.Services.Models\\Stopify.Services.Models.csproj": {
+    "C:\\Users\\dido9\\Desktop\\DNGit\\ASP.NET Core\\Stopify\\Stopify.Solution\\Stopify.Services.Models\\Stopify.Services.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dido9\\Desktop\\Stopify\\Stopify.Solution\\Stopify.Services.Models\\Stopify.Services.Models.csproj",
+        "projectUniqueName": "C:\\Users\\dido9\\Desktop\\DNGit\\ASP.NET Core\\Stopify\\Stopify.Solution\\Stopify.Services.Models\\Stopify.Services.Models.csproj",
         "projectName": "Stopify.Services.Models",
-        "projectPath": "C:\\Users\\dido9\\Desktop\\Stopify\\Stopify.Solution\\Stopify.Services.Models\\Stopify.Services.Models.csproj",
+        "projectPath": "C:\\Users\\dido9\\Desktop\\DNGit\\ASP.NET Core\\Stopify\\Stopify.Solution\\Stopify.Services.Models\\Stopify.Services.Models.csproj",
         "packagesPath": "C:\\Users\\dido9\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dido9\\Desktop\\Stopify\\Stopify.Solution\\Stopify.Services.Models\\obj\\",
+        "outputPath": "C:\\Users\\dido9\\Desktop\\DNGit\\ASP.NET Core\\Stopify\\Stopify.Solution\\Stopify.Services.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -13,3 +13,18 @@ C:\Users\dido9\Desktop\Stopify\Services\Stopify.Services\bin\Debug\netstandard2.
 C:\Users\dido9\Desktop\Stopify\Services\Stopify.Services\bin\Debug\netstandard2.0\Stopify.Data.Models.dll
 C:\Users\dido9\Desktop\Stopify\Services\Stopify.Services\bin\Debug\netstandard2.0\Stopify.Data.pdb
 C:\Users\dido9\Desktop\Stopify\Services\Stopify.Services\bin\Debug\netstandard2.0\Stopify.Data.Models.pdb
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\Stopify\Services\Stopify.Services\obj\Debug\netstandard2.0\Stopify.Services.csprojAssemblyReference.cache
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\Stopify\Services\Stopify.Services\obj\Debug\netstandard2.0\Stopify.Services.AssemblyInfoInputs.cache
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\Stopify\Services\Stopify.Services\obj\Debug\netstandard2.0\Stopify.Services.AssemblyInfo.cs
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\Stopify\Services\Stopify.Services\obj\Debug\netstandard2.0\Stopify.Services.dll
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\Stopify\Services\Stopify.Services\obj\Debug\netstandard2.0\Stopify.Services.pdb
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\Stopify\Services\Stopify.Services\bin\Debug\netstandard2.0\Stopify.Services.deps.json
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\Stopify\Services\Stopify.Services\bin\Debug\netstandard2.0\Stopify.Services.dll
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\Stopify\Services\Stopify.Services\bin\Debug\netstandard2.0\Stopify.Services.pdb
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\Stopify\Services\Stopify.Services\bin\Debug\netstandard2.0\Stopify.Data.dll
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\Stopify\Services\Stopify.Services\bin\Debug\netstandard2.0\Stopify.Data.Models.dll
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\Stopify\Services\Stopify.Services\bin\Debug\netstandard2.0\Stopify.Services.Models.dll
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\Stopify\Services\Stopify.Services\bin\Debug\netstandard2.0\Stopify.Data.pdb
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\Stopify\Services\Stopify.Services\bin\Debug\netstandard2.0\Stopify.Services.Models.pdb
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\Stopify\Services\Stopify.Services\bin\Debug\netstandard2.0\Stopify.Data.Models.pdb
+C:\Users\dido9\Desktop\DNGit\ASP.NET Core\Stopify\Services\Stopify.Services\obj\Debug\netstandard2.0\Stopify.Services.csproj.CopyComplete
